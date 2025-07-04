@@ -1,0 +1,7 @@
+Django>=4.2
+Django REST Framework
+drf-yang
+Django-cors-headers
+celery
+django-environ
+mysqlclient
