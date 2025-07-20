@@ -1,4 +1,4 @@
-# ALX Travel App - Backend
+# ALX Travel App - Database Modeling and Data Seeding in Django
 The ALX Travel App is a Django-based backend for a travel listing platform, designed with industry best practices for scalability, maintainability, and team collaboration.
 
 ## Project Overview
