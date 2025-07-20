@@ -183,16 +183,16 @@ Filter by listing: GET /api/bookings/?listing_id={id}
 Django Admin
 Access the admin interface at http://localhost:8000/admin/ to manage:
 
-Listings
-Bookings
-Reviews
-Users
-Testing the API
+Listings  
+Bookings  
+Reviews  
+Users  
+Testing the API  
 Start the development server:
 python manage.py runserver
 ## Access API endpoints:
-Listings: http://localhost:8000/api/listings/
-Bookings: http://localhost:8000/api/bookings/
-Use Swagger UI for interactive testing: http://localhost:8000/swagger/
-License
+Listings: http://localhost:8000/api/listings/  
+Bookings: http://localhost:8000/api/bookings/  
+Use Swagger UI for interactive testing: http://localhost:8000/swagger/  
+## License  
 This project is for educational purpose within the ALX ProDEV program.
